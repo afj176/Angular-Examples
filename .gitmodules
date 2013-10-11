@@ -1,0 +1,3 @@
+[submodule "instagram-angular-example"]
+	path = instagram-angular-example
+	url = https://github.com/afj176/instagram-angular-example.git
